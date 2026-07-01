@@ -6,7 +6,9 @@ Stealthy process hollowing tool for deploying Meterpreter, Sliver, or custom pay
   <img src="https://img.shields.io/badge/Python-v3.8+-blue" alt="Python">
 </p>
 
-![App Screenshot](https://github.com/Ares-21/HollowGhost/blob/main/HollowGhost.png?raw=true)
+<p align="center">
+  <img src="https://github.com/Ares-21/HollowGhost/blob/main/HollowGhost.png?raw=true" alt="App Screenshot">
+</p>
 
 ## Installation
 
